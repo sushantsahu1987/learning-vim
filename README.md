@@ -15,3 +15,7 @@ Learning vim in motion
 12 ctrl b scroll down half screen
 13 zb redraw screen at bottom of screen
 14 zt redraw screen at top of screen 
+15 dit delete contents of inner tag
+16 dat delete entire tag
+17 yak yank entire tag
+18 yik yank inner contents of a tag
